@@ -22,3 +22,6 @@
 [submodule "src/modules/apt"]
 	path = src/modules/apt
 	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "src/modules/mysql"]
+	path = src/modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
