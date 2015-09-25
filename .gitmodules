@@ -7,3 +7,6 @@
 [submodule "src/puppetlabs/facter"]
 	path = src/puppetlabs/facter
 	url = https://github.com/puppetlabs/facter
+[submodule "src/puppetlabs/hiera"]
+	path = src/puppetlabs/hiera
+	url = https://github.com/puppetlabs/hiera
