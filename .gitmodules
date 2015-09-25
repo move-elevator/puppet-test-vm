@@ -10,3 +10,6 @@
 [submodule "src/puppetlabs/hiera"]
 	path = src/puppetlabs/hiera
 	url = https://github.com/puppetlabs/hiera
+[submodule "src/modules/apache"]
+	path = src/modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache
