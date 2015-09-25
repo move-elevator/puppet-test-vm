@@ -1,0 +1,3 @@
+[submodule "src/modules/typo3"]
+	path = src/modules/typo3
+	url = https://github.com/move-elevator/puppet-typo3
