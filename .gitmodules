@@ -16,3 +16,6 @@
 [submodule "src/modules/concat"]
 	path = src/modules/concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "src/modules/stdlib"]
+	path = src/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
