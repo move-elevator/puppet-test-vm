@@ -13,3 +13,6 @@
 [submodule "src/modules/apache"]
 	path = src/modules/apache
 	url = https://github.com/puppetlabs/puppetlabs-apache
+[submodule "src/modules/concat"]
+	path = src/modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
